@@ -1,11 +1,11 @@
 # EANBiT 2021 Residential Training Mini-Projects
 
-Mini-projects for the residential training. As part of the EANBiT Residential training 2021, you will collaboratively work on mini-projects in groups of at least 5. 
+Mini-projects for the residential training. As part of the EANBiT Residential training 2021, you will collaboratively work on mini-projects in groups of at least 3 or 4. 
 
 ## Projects
 1. Machine Learning for genomics
 2. Reproducing a genomics Paper (ONT)
-3. Meta-analysis
+3. Meta-analysis / Genome Annotation Pipeline
 
 ## Expected
 - Work collaboratively on the project. In your report, you need to state the role played by each group member.
