@@ -1,0 +1,17 @@
+# Oxford Nanopore Technologies Metatranscriptomics Mini-project
+
+Oxford Nanopore Technologies (ONT) has emerged as a trendsetter in genomic and transcriptomic analyses through its long-read sequencing technologies. The technology presents the possibility of fast, inexpensive sample preparation procedures and simplified unambiguous de novo assembly methods. This has greatly improved our ability to study the diversity of structural variants, transcription and splicing mechanisms, etc. However, this technology has been associated with high error rates limiting its scientific use to mainly reference-based analyses (Sahlin et al., 2021). 
+
+The Black Soldier Fly (Hermetia illucens; BSF) is a useful tool in the valorisation of organic biomass and other biodegradable wastes, with vast uses in animal feed and prospects in renewable energy and other biorenewables. The BSF larval gut microbiome is an active area of study due to rapid growth, broad degradation capabilities of the larval stage, and non-competence as a vector for any known human diseases. However, most studies have focused on the specific organ microbiomes, with little research being conducted to compare differential expression in the host under different conditions (Klammsteiner et al., 2020)(Bruno et al., 2019)(Tanga et al., 2021). 
+
+In this study, the BSF larvae were bred under different diets selected based on increasing lignocellulose content. These diets were: processed chicken feed (CF), chicken manure (CM), Brewer’s spent grain (BSG), and Water Hyacinth (WH). An additional diet Feed Mix (FM), consisting of the four diets in equal proportions, was also incorporated. The different metatranscriptomes were sequenced using the PCR-cDNA approach on the ONT MinION platform. This mini-project will analyse the sequences that mapped to the BSF genome, excluded from the initial study focused on metatranscriptomics of gut microbiome. You are provided with mapped reads in .bam format for differential gene expression analysis. 
+Your tasks will include:
+1. Quality analysis (this can take any form: error correction, QC etc.)
+2. Differential gene expression analysis of the data under different diets
+3. Develop a standardised pipeline for the same (Choose a workflow language)
+
+## References
+1. Bruno, D., Bonelli, M., De Filippis, F., Di Lelio, I., Tettamanti, G., Casartelli, M., Ercolini, D., & Caccia, S. (2019). The intestinal microbiota of Hermetia illucens larvae is affected by diet and shows a diverse composition in the different midgut regions. Applied and Environmental Microbiology, 85(2). https://doi.org/10.1128/AEM.01864-18
+2. Klammsteiner, T., Walter, A., Bogataj, T., Heussler, C. D., Stres, B., Steiner, F. M., Schlick-Steiner, B. C., Arthofer, W., & Insam, H. (2020). The Core Gut Microbiome of Black Soldier Fly (Hermetia illucens) Larvae Raised on Low-Bioburden Diets. Frontiers in Microbiology, 11(May), 1–14. https://doi.org/10.3389/fmicb.2020.00993
+3. Sahlin, K., Sipos, B., James, P. L., & Medvedev, P. (2021). Error correction enables use of Oxford Nanopore technology for reference-free transcriptome analysis. Nature Communications, 12(1). https://doi.org/10.1038/S41467-020-20340-8
+4. Tanga, C. M., Waweru, J. W., Tola, Y. H., Onyoni, A. A., Khamis, F. M., Ekesi, S., & Paredes, J. C. (2021). Organic Waste Substrates Induce Important Shifts in Gut Microbiota of Black Soldier Fly (Hermetia illucens L.): Coexistence of Conserved, Variable, and Potential Pathogenic Microbes. Frontiers in Microbiology, 12. https://doi.org/10.3389/fmicb.2021.635881
