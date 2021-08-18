@@ -3,7 +3,7 @@
 Mini-projects for the residential training. As part of the EANBiT Residential training 2021, you will collaboratively work on mini-projects in groups of at least 3 or 4. 
 
 ## Projects
-1. Project 1: [Whole Genome Assembly and Annotation of SARS-CoV2](Project_2.md)
+1. Project 1: [Whole Genome Assembly and Annotation of SARS-CoV2](Project_1.md)
 2. Project 2: [Machine Learning for Genomics](Project_2.md)
 3. Project 3: [Oxford Nanopore Technologies Metatranscriptomics Mini-project](Project_3.md)
 
